@@ -1,5 +1,5 @@
-Hi 👋, I’m Satya~ 🌸
-A non-binary noob dev from India.
+Hi 👋, I’m Satya~🌸
+I'm a non-binary noob dev from India.
 
 I’m into gamedev, webdev, AI, & art.
 I'm also into UX and building inclusive stuff.
