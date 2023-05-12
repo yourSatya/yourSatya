@@ -1,7 +1,8 @@
 Hi 👋, I’m Satya~ 🌸
-A non binary noob dev from India.
+A non-binary noob dev from India.
 
 I’m into gamedev, webdev, AI, & art.
+I'm also into UX and building inclusive stuff.
 
 I’m currently learning Godot.
 
